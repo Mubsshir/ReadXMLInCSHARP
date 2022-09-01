@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Students>
+	<Student>
+		<name>Ram</name>
+		<email>ram@gmail.com</email>
+		<dob>12-02-1997</dob>
+		<addr>Chhindwara</addr>
+	</Student>
+	<Student>
+		<name>Shyam</name>
+		<email>Shyam@gmail.com</email>
+		<dob>12-02-1997</dob>
+		<addr>Chhindwara</addr>
+	</Student>
+	<Student>
+		<name>Amir</name>
+		<email>Amir@gmail.com</email>
+		<dob>12-02-1997</dob>
+		<addr>Chhindwara</addr>
+	</Student>
+	<Student>
+		<name>Sohel</name>
+		<email>sohel@gmail.com</email>
+		<dob>12-02-1997</dob>
+		<addr>Chhindwara</addr>
+	</Student>
+	<Student>
+		<name>Pawan</name>
+		<email>pawan@gmail.com</email>
+		<dob>12-02-1997</dob>
+		<addr>Chhindwara</addr>
+	</Student>
+</Students>
