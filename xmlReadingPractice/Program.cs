@@ -16,7 +16,7 @@ namespace xmlReadingPractice
             XmlDocument doc = new XmlDocument();
             doc.Load(path);
             XmlNode students = doc.DocumentElement.ChildNodes.Cast<XmlNode>().ToList()[0];//First CHILD OF ROOT ADDED TO STUDENTS I.E STUDENT tag
-                                                                                          //Adding Tag name as a column name in datatable
+            //Adding Tag name as a column name in datatable
             foreach (XmlNode student in students)
             {
                 StudentTable.Columns.Add(student.Name);
